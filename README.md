@@ -2,6 +2,9 @@
 
 Aplikacja Streamlit obliczająca promieniowy rozkład temperatury w paliwie i koszulce oraz osiowy rozkład gęstości mocy i temperatur.
 
+link do aplikacji:
+https://rozklady-temperatur-vdkvtbvww4tpzxwze3mdx8.streamlit.app/
+
 ## Uruchomienie w Windows przez uv
 
 W PowerShellu, w folderze projektu (po zainstalowaniu `uv`):
